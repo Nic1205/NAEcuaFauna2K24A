@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="Y6fSDsqvAk1yxs2b39ig" name="Page-1">
+        <mxGraphModel dx="746" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NAData&lt;br&gt;Access&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;gradientColor=#ea6b66;" vertex="1" parent="1">
+                    <mxGeometry x="197.8" y="70" width="76.14" height="340.74" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NADao&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="115.05" y="216.87" width="53.5" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#828282&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Arquitectura N-TIER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="64.38" y="-49" width="245" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NAData Helper&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="250.5" y="216.87" width="58" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NAFramework&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+                    <mxGeometry x="417" y="-4" width="125" height="258" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;NAException&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="434.41" y="102.52000000000001" width="90.19" height="25.56" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NABusiness&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=-90;gradientColor=#97d077;" vertex="1" parent="1">
+                    <mxGeometry x="193.3" y="-30" width="77.77" height="340.74" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;b&gt;NABusiness Logic&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="138.64" y="116.87" width="80.27" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NABusiness Entities&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="267.77" y="116.87" width="82.23" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Data&lt;br&gt;Sources&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;rotation=-90;gradientColor=#ea6b66;" vertex="1" parent="1">
+                    <mxGeometry x="115.05" y="240" width="86.37" height="182.83" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NAUser&lt;br&gt;Interface&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="-130.49" width="86.37" height="340.74" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;b&gt;NAGui&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="113.55" y="42" width="131.45" height="28.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;b&gt;NAForms&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="113.05" y="7" width="131.45" height="28.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;b&gt;NAResource&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="6" width="69" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;SQLITE&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6F0000;fillColor=#a20025;shape=mxgraph.azure.sql_reporting;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="118.05" y="303.18" width="38.95" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font color=&quot;#666666&quot;&gt;database&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_Minus_128x128.png;strokeColor=default;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="307.92" width="38" height="39.32" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NADto&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="322.5" y="216.87" width="58" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;b&gt;NAIDao&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="183.75" y="216.86999999999998" width="49.5" height="47" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
